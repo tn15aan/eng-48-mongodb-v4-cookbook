@@ -1,4 +1,3 @@
 # mongo_cookbook_new
 
-TODO: Enter the cookbook description here.
-
+Ubuntu 18.04 with Mongodb installed version 4 and tested
